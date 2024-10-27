@@ -46,3 +46,10 @@ For this software, I used:
 
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [Python](https://www.python.org/)
+* [Arcade Examples] (https://api.arcade.academy/en/latest/examples/index.html)
+* [Arcade Tutorial—RealPython] (https://realpython.com/arcade-python-game-framework/)
+
+# Future Work
+* Allow the user to save and load the game
+* Provide levels in your game that change the difficulty of the game
+* Improve handling of collisions
